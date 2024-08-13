@@ -19,3 +19,15 @@ o	Írj egy függvényt, amely egy adott felhasználó aktivitási státuszát fr
  tsc init
 
  npm install --save-dev jest @types/jest ts-jest
+
+git clone https://github.com/MechwartSuli/users-Lorintz-pf.git
+
+cd users-lorintz-pf
+
+git status
+
+git add .
+
+git commit -m "A commit üzenete"
+
+git push origin <branch-name>
