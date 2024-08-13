@@ -1,5 +1,5 @@
 # Users
-##feladat leírása
+## feladat leírása
 Ebben a feladatban egy egyszerű programot fogunk létrehozni felhasználók létrehozására, hozzáadására egy egyszerű tömbhöz.
 Feladat Lépései
 1.	Tömb Létrehozása
