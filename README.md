@@ -1,5 +1,5 @@
 # Users
-## feladat leírása
+## Feladat leírása
 Ebben a feladatban egy egyszerű programot fogunk létrehozni felhasználók létrehozására, hozzáadására egy egyszerű tömbhöz.
 Feladat Lépései
 1.	Tömb Létrehozása
@@ -13,7 +13,7 @@ Az objektumot egy interface alapján hozd létre.
 5.	Felhasználó Aktivitásának Frissítése
 Írj egy függvényt, amely egy adott felhasználó aktivitási státuszát frissíti.
 
- 
+### Utasítások
  npm init -y
 
  npm install --save-dev typescript
